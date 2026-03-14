@@ -1,11 +1,10 @@
-Hi, I’m @yohankok
+Hi, I’m @yohankok,
 
-I'm mostly developing small apps to make my life easier and keep learning new skills.
-My current projects include swift fitness / Lifestyle apps including backed services, websites and loclay hosted AI Tools (LLMs, SDXL).
+a Senior IT Project Manager with a strong interest in product thinking, Swift app development, automation, and AI-enabled workflows. I use GitHub to build and refine practical side projects across iOS apps, websites, backend services, and locally hosted AI tools. My repositories reflect a mix of hands-on experimentation, technical learning, and product-focused prototyping.
 
-See you around and keeps beeing curious!
+current focus: 
 
-<!---
-yohankok/yohankok is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* Swift / iOS apps
+* AI workflows / local models
+* automation and backend prototypes
+* personal productivity / fitness / habit products
